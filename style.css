@@ -4,7 +4,7 @@
 
 }
 
-/* Header Menu Styles */
+/* Header Menu Styles Starts Here */
 
 .nav-container {
     display: flex;
@@ -24,7 +24,7 @@
     margin: 10px;
 }
 
-/* Banner Styles Here */
+/* Banner Styles Starts Here */
 
 .banner-container {
     background-image: url(images/banner/banner1.png);
@@ -66,7 +66,7 @@
     color: black;
 }
 
-/* Second Section Styles Here */
+/* Second Section Styles  Starts Here */
 
 .second-section {
     display: flex;
@@ -89,7 +89,7 @@ ul {
     list-style-image: url(images/icons/checkmark.png);
 }
 
-/* Thirds Section Styles Here or My Plans Sections */
+/* Third Section or My Plans Sections Styles Stars Here */
 
 
 .third-section {
@@ -118,7 +118,7 @@ h4 {
     color: grey;
 }
 
-/*  BONUS SECTION Styles Here */
+/*  BONUS SECTION Styles Starts Here */
 
 .bonus {
     background-image: linear-gradient(to right, #f12711, #f5af19), url(images/watch.png);
